@@ -5,7 +5,7 @@
 - Using the mouse.
 ```
 **Languages:** Python, HTML, CSS<br>
-**Frameworks & Libraries:** Prisma<br>
+**Frameworks & Libraries:** Numpy<br>
 **Databases:** SQLite<br>
 **Tools:** Git, GitHub, Linux (Arch), Claude Code<br>
 
