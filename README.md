@@ -7,6 +7,6 @@
 **Languages:** Python, HTML, CSS<br>
 **Frameworks & Libraries:** Prisma<br>
 **Databases:** SQLite<br>
-**Tools:** Git, GitHub, Linux (Arch), Claude Code, Vim<br>
+**Tools:** Git, GitHub, Linux (Arch), Claude Code<br>
 
 **Currently learning:** Git internals, Vim, Prisma, JavaScript<br>
