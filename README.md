@@ -1,8 +1,7 @@
 ```diff
 + My name is Luiz Otávio
 + Computer Science student at UNIFRAN
-+ I use Arch, btw
-- Using the mouse.
+- windows.
 ```
 **Languages:** Python, HTML, CSS<br>
 **Frameworks & Libraries:** Numpy<br>
