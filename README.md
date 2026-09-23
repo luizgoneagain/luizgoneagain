@@ -1,7 +1,6 @@
 ```diff
 + My name is Luiz Otávio
 + Computer Science student at UNIFRAN
-- windows.
 ```
 **Languages:** Python, HTML, CSS<br>
 **Frameworks & Libraries:** Numpy<br>
