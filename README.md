@@ -8,4 +8,4 @@
 **Databases:** SQLite<br>
 **Tools:** Git, GitHub, Linux (Arch), Claude Code<br>
 
-**Currently learning:** Git internals, Vim, Prisma, JavaScript<br>
+**Currently learning:** Git internals, Vim, Prisma, JavaScript, System design<br>
